@@ -47,7 +47,7 @@ Hi 👋, I am **Harsh** an enthusiastic and ambitious full stack developer and d
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<img align="right" width="38%" src="https://user-images.githubusercontent.com/124458271/218484478-816782fb-6a01-432b-8a4f-988537cbd006.png"/>
 
   <a href="https://github.com/harshsharma101"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=harshsharma101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true"></a>
   <a href="https://github.com/harshsharma101"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshsharma101&theme=tokyonight&hide_border=false"></a>
