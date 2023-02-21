@@ -35,7 +35,7 @@ Hi 👋, I am **Harsh** an enthusiastic and ambitious full stack developer and d
 
 - 👨‍💻 All of my projects are available [here](https://github.com/harshsharma101)
 
-- 💬 Ask me about **web development, graphic designing, video editing, voice over and search quality rating!!**
+- 💬 Ask me about **web development, graphic designing, video editing, voice over and other freelancing works!!**
 
 - 📫 Reach me out at **harshsharma95595@gmail.com**
 
