@@ -21,7 +21,7 @@
 
 <p>
   
-Hi 👋, I am **Harsh** an enthusiastic and ambitious full stack developer and designer. I specialise in Web Development, JavaScript and Graphic Designing. I love to network, join new communities and add value ✨
+Hi 👋, I am **Harsh** an enthusiastic and ambitious full stack developer and designer. I specialise in Web Development, JavaScript, Video Editing and Graphic Designing. I love to network, join new communities and add value ✨
 
 <div>
 <details>
