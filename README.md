@@ -27,7 +27,7 @@ Hi 👋, I am **Harsh** an enthusiastic and ambitious full stack developer and d
 <details>
   <summary><h3>🧑 More about me</h3></summary>
 
-- 🔭 I’m currently on a journey to build **great** things
+- 🔭 I’m currently on a journey to build **great** things!
 
 - 🌱 I’m currently learning **everything** 🤓
 
@@ -35,7 +35,7 @@ Hi 👋, I am **Harsh** an enthusiastic and ambitious full stack developer and d
 
 - 👨‍💻 All of my projects are available [here](https://github.com/harshsharma101)
 
-- 💬 Ask me about **web development, graphic designing, voice over and search quality rating!!**
+- 💬 Ask me about **web development, graphic designing, video editing, voice over and search quality rating!!**
 
 - 📫 Reach me out at **harshsharma95595@gmail.com**
 
